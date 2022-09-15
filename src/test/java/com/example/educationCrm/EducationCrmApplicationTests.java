@@ -1,0 +1,13 @@
+package com.example.educationCrm;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class EducationCrmApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
